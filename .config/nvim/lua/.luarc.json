@@ -1,0 +1,29 @@
+{
+    "workspace.library": [
+        "/home/baal/.config/nvim",
+        "/home/baal/.local/share/nvim/site",
+        "/home/baal/.local/share/nvim/site/pack/packer/start/LuaSnip",
+        "/home/baal/.local/share/nvim/site/pack/packer/start/cmp-nvim-lsp",
+        "/home/baal/.local/share/nvim/site/pack/packer/start/gruvbox",
+        "/home/baal/.local/share/nvim/site/pack/packer/start/kanagawa",
+        "/home/baal/.local/share/nvim/site/pack/packer/start/lsp-zero.nvim",
+        "/home/baal/.local/share/nvim/site/pack/packer/start/mason-lspconfig.nvim",
+        "/home/baal/.local/share/nvim/site/pack/packer/start/mason.nvim",
+        "/home/baal/.local/share/nvim/site/pack/packer/start/nvim-cmp",
+        "/home/baal/.local/share/nvim/site/pack/packer/start/nvim-lspconfig",
+        "/home/baal/.local/share/nvim/site/pack/packer/start/nvim-treesitter",
+        "/home/baal/.local/share/nvim/site/pack/packer/start/packer.nvim",
+        "/home/baal/.local/share/nvim/site/pack/packer/start/playground",
+        "/home/baal/.local/share/nvim/site/pack/packer/start/plenary.nvim",
+        "/home/baal/.local/share/nvim/site/pack/packer/start/telescope.nvim",
+        "/home/baal/.local/share/nvim/site/pack/packer/start/undotree",
+        "/home/baal/.local/share/nvim/site/pack/packer/start/vim-fugitive",
+        "/usr/share/nvim/runtime",
+        "/usr/share/nvim/runtime/pack/dist/opt/matchit",
+        "/usr/lib/x86_64-linux-gnu/nvim",
+        "/home/baal/.local/share/nvim/site/pack/packer/start/cmp-nvim-lsp/after",
+        "/home/baal/.local/share/nvim/site/pack/packer/start/playground/after",
+        "/home/baal/.config/nvim/after",
+        "${3rd}/luassert/library"
+    ]
+}
